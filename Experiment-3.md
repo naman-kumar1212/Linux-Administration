@@ -39,8 +39,6 @@ vim "$lab_file"
 
 ![Screenshot 2025-03-22 104842](https://github.com/user-attachments/assets/e2a07908-d41b-497e-a0ef-aa2178d6d467)
 
-### 3. Finall Output
+### 3. Final Output
 
 ![Screenshot 2025-03-22 105035](https://github.com/user-attachments/assets/511b0d36-e149-42ca-adae-aede1504c5d3)
-
-
