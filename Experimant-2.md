@@ -37,6 +37,7 @@ echo pre-{A,B}-post
 ```
 
 ## Code Snippet
+
 ### 1. View the gedit man page
 
 ![Screenshot 2025-03-22 102408](https://github.com/user-attachments/assets/8967c7fe-1986-4449-8b40-aeab95460735)
