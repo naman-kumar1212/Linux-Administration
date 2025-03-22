@@ -63,9 +63,8 @@ umask
 
 ### 1. Change the umask for operator1
 
-![Screenshot 2025-03-22 141808](https://github.com/user-attachments/assets/0c96a7a2-ec4a-42b8-af47-dfcdd6e1bd21)
+![Screenshot 2025-03-22 143500](https://github.com/user-attachments/assets/ac1189b0-91d2-49a0-a0f0-6001652dd3b8)
 
 ### 2. Final Output
 
-![Screenshot 2025-03-22 142017](https://github.com/user-attachments/assets/a64e6107-dac5-4007-90b4-f5ffc5b0c4e6)
-
+![Screenshot 2025-03-22 143706](https://github.com/user-attachments/assets/25036651-58d3-4ffd-86ed-0657fd284b71)
