@@ -9,7 +9,7 @@ Use the touch command to create sets of empty practice files to use during this 
 3. Use the mkdir command to create multiple directories in a single step.
 
 ## Code
-sh
+
 # Create the empty files
 touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 
