@@ -61,3 +61,11 @@ umask
 
 ## Code Snippet
 
+### 1. Change the umask for operator1
+
+![Screenshot 2025-03-22 141808](https://github.com/user-attachments/assets/0c96a7a2-ec4a-42b8-af47-dfcdd6e1bd21)
+
+### 2. Final Output
+
+![Screenshot 2025-03-22 142017](https://github.com/user-attachments/assets/a64e6107-dac5-4007-90b4-f5ffc5b0c4e6)
+
