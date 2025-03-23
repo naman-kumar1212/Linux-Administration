@@ -62,46 +62,8 @@ chmod --reference=reference_file.txt target_file.txt
 
 ### 1. The chown command - Change file ownership
 
-#### Change owner of a file
-![Screenshot of changing file owner](https://placeholder-image-url/chown-user.png)
-
-#### Change owner and group of a file
-![Screenshot of changing file owner and group](https://placeholder-image-url/chown-user-group.png)
-
-#### Change ownership recursively for a directory
-![Screenshot of recursive ownership change](https://placeholder-image-url/chown-recursive.png)
+![Screenshot 2025-03-23 140932](https://github.com/user-attachments/assets/4d857648-898c-4b38-bd73-858ff181c2e0)
 
 ### 2. The chmod command - Change file permissions
 
-#### Change permissions using octal notation
-![Screenshot of chmod with octal notation](https://placeholder-image-url/chmod-octal.png)
-
-#### Change permissions using symbolic notation
-![Screenshot of chmod with symbolic notation](https://placeholder-image-url/chmod-symbolic.png)
-
-#### Change permissions recursively for a directory
-![Screenshot of recursive permission change](https://placeholder-image-url/chmod-recursive.png)
-
-### 3. Common permission scenarios
-
-#### Make a script executable
-```bash
-chmod +x script.sh
-./script.sh
-```
-![Screenshot of making a script executable](https://placeholder-image-url/chmod-executable.png)
-
-#### Set secure permissions for configuration files
-```bash
-sudo chown root:root config.conf
-sudo chmod 644 config.conf
-```
-![Screenshot of securing config files](https://placeholder-image-url/secure-config.png)
-
-#### Set directory permissions for collaboration
-```bash
-sudo mkdir /shared
-sudo chown nobody:developers /shared
-sudo chmod 775 /shared
-```
-![Screenshot of setting up shared directory](https://placeholder-image-url/shared-directory.png)
+![Screenshot 2025-03-23 141311](https://github.com/user-attachments/assets/1caaea08-3bf3-4f8a-a6d3-a7b6676e4917)
